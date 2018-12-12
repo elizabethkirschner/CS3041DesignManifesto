@@ -1,6 +1,17 @@
-## Welcome to GitHub Pages
-## [See my manifesto here.](https://elizabethkirschner.github.io/CS3041DesignManifesto/DesignManifesto) 
+## Portfolio
+# [See my manifesto here.](https://elizabethkirschner.github.io/CS3041DesignManifesto/DesignManifesto) 
 
+Hi! I'm ELizabeth Kirschner, I a second year student at Worcester Polytechnic Institute pursuing a double major in computer science and interactive media & game development.  This website contains a portfolio of my work in CS 3041, Human Computer Interaction, and a design manifesto detailing the design process I developed over the course of the term.
+
+All of the projects below were a collaborative effort and reflect group work.
+
+# Design for Others
+[See our reflection on Medium](https://medium.com/@ethanlichang/design-for-others-e0a5da8331f8)
+
+
+
+
+## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/elizabethkirschner/CS3041DesignManifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
