@@ -8,7 +8,14 @@ All of the projects below were a collaborative effort and reflect group work.
 ## Design for Others
 [See our reflection on Medium](https://medium.com/@ethanlichang/design-for-others-e0a5da8331f8)
 
+## Design for Understanding
+[See our reflection on Medium](https://medium.com/@elizabethekirschner/summary-bdada65d0ad1)
 
+## Design for Tension
+[See our reflection on Medium](https://medium.com/@elizabethekirschner/design-for-tension-3dab831bc893)
+
+## Design for Wellbeing
+[See our reflection on Medium](https://medium.com/@elizabethekirschner/design-for-wel-9ce2a39378c)
 
 
 ## Welcome to GitHub Pages
