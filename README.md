@@ -6,6 +6,9 @@ Hi! I'm Elizabeth Kirschner, I a second year student at Worcester Polytechnic In
 All of the projects below were a collaborative effort and reflect group work.
 
 # Design for Others
+
+![image](https://raw.githubusercontent.com/elizabethkirschner/CS3041DesignManifesto/master/Screenshot%202018-12-12%2021.08.33.png)
+
 ### [See our design doc on Medium](https://medium.com/@ethanlichang/design-for-others-e0a5da8331f8)
 
 # Design for Understanding
@@ -20,6 +23,8 @@ Click to see our demo video!
 ### [See our design doc on Medium](https://medium.com/@elizabethekirschner/design-for-tension-3dab831bc893)
 
 # Design for Wellbeing
+Click to see our demo video!
+[![Design for wellbeing](https://raw.githubusercontent.com/elizabethkirschner/CS3041DesignManifesto/master/Screenshot%202018-12-12%2021.12.13.png)](https://www.youtube.com/watch?v=M3CerGFKxnU)
 
 ### [See our design doc on Medium](https://medium.com/@elizabethekirschner/design-for-wel-9ce2a39378c)
 
