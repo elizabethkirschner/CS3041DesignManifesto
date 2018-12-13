@@ -4,7 +4,7 @@ After the six design sprints in this class I have come up with a defined design 
 
 ### Brainstorming
 	My design process begins with a brainstorm.  Putting ideas down on paper is the best way to get started with the design process.  With each of the design sprints this term my group began our project with a paper and pencil brainstorm. 
-  ![image](https://github.com/elizabethkirschner/CS3041DesignManifesto/blob/master/Image%20from%20iOS.jpg) 
+  ![image](https://github.com/elizabethkirschner/CS3041DesignManifesto/blob/master/Image%20from%20iOS.jpg =250x) 
   This brainstorm promotes free thinking and helped each of my groups come up with what was eventually our final product.  I always like to write things down, for me, writing something down helps me think about it and makes me consider what it means.   Brainstorming gives you a chance to think through the entire project and work out what message you want to convey.  Before I begin brainstorming for any project I start by reading the prompt very carefully and discussing what it means with my partners or peers.  
 	It is very important to have a goal in mind when you start brainstorming.  Without a goal for your project you have no direction for you to begin your brainstorm in.  For the final design sprint in the class, design for another world, we were given an open ended project with no goal set from the beginning.  Without a goal it is hard to know where to begin, my group decided our goal first, and then started brainstorming ideas for our design.  We decided to use humor to convey what it is like to live in messenger hall above the Foise Innovation Studio.  
 
