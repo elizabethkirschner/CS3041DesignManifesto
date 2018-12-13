@@ -6,19 +6,22 @@ Hi! I'm Elizabeth Kirschner, I a second year student at Worcester Polytechnic In
 All of the projects below were a collaborative effort and reflect group work.
 
 # Design for Others
-[See our reflection on Medium](https://medium.com/@ethanlichang/design-for-others-e0a5da8331f8)
+### [See our design doc on Medium](https://medium.com/@ethanlichang/design-for-others-e0a5da8331f8)
 
 # Design for Understanding
 ![Tester Image](https://raw.githubusercontent.com/elizabethkirschner/CS3041DesignManifesto/master/IMG_20181113_185818.jpg)
-[See our reflection on Medium](https://medium.com/@elizabethekirschner/summary-bdada65d0ad1)
+
+### [See our design doc on Medium](https://medium.com/@elizabethekirschner/summary-bdada65d0ad1)
 
 # Design for Tension
 Click to see our demo video!
 [![Design For Tension](https://raw.githubusercontent.com/elizabethkirschner/CS3041DesignManifesto/master/Screenshot%202018-12-12%2017.21.45.png)](https://www.youtube.com/watch?v=G2qqMcmWILE&feature=youtu.be)
-[See our reflection on Medium](https://medium.com/@elizabethekirschner/design-for-tension-3dab831bc893)
+
+### [See our design doc on Medium](https://medium.com/@elizabethekirschner/design-for-tension-3dab831bc893)
 
 # Design for Wellbeing
-[See our reflection on Medium](https://medium.com/@elizabethekirschner/design-for-wel-9ce2a39378c)
+
+### [See our design doc on Medium](https://medium.com/@elizabethekirschner/design-for-wel-9ce2a39378c)
 
 
 ## Welcome to GitHub Pages
