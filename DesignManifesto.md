@@ -1,5 +1,5 @@
 # Design Manifesto
-## [See my portfolio here](https://elizabethkirschner.github.io/CS3041DesignManifesto/)
+### [See my portfolio here](https://elizabethkirschner.github.io/CS3041DesignManifesto/)
 ### Introduction
 After the six design sprints in this class I have come up with a defined design process.  My process is, brainstorming, refining, prototyping, testing, and a final polish.  This class has afforded me several opportunities to practice and refine my design process.  In the future I believe that this class will have had a strong influence on how I go about my designs.  In this manifesto I will discuss why I have chosen these five steps as part of my design process.  
 
