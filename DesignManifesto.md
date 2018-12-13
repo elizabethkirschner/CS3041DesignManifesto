@@ -6,7 +6,7 @@ After the six design sprints in this class I have come up with a defined design 
 
 My design process begins with a brainstorm.  Putting ideas down on paper is the best way to get started with the design process.  With each of the design sprints this term my group began our project with a paper and pencil brainstorm.
 
-![image](https://github.com/elizabethkirschner/CS3041DesignManifesto/blob/master/Image%20from%20iOS.jpg s=200) 
+![image](https://github.com/elizabethkirschner/CS3041DesignManifesto/blob/master/Image%20from%20iOS.jpg)
 
 This brainstorm promotes free thinking and helped each of my groups come up with what was eventually our final product.  I always like to write things down, for me, writing something down helps me think about it and makes me consider what it means.   Brainstorming gives you a chance to think through the entire project and work out what message you want to convey.  Before I begin brainstorming for any project I start by reading the prompt very carefully and discussing what it means with my partners or peers.  
 
@@ -21,6 +21,7 @@ My second step for any design is refine the ideas I put into my brainstorm.  In 
 The prototyping stage is key for testing all the little mechanics of your design.  I really appreciated doing the paper prototypes in the design for others project and felt that it was a key step in our design process.  Prototyping is so important to the design process because it is the moment where your design takes shape.  From paper prototypes to full builds this stage is key.
 
 Learning to use the tools for your design can be a big hindrance to this part of the design process.  In my design for wellbeing project, no members of my group, myself included, had any experience with javascript.  This made the project difficult and required a lot of trial and error as well as research to complete on time.  This of course was all part of the prototyping process and helped us understand what would and would not work for our final product.
+![image](https://raw.githubusercontent.com/elizabethkirschner/CS3041DesignManifesto/master/Image%20from%20iOS%20(2).jpg)
 	
 ### Testing
 The testing phase requires a lot of time and patience.  In this class I learned several steps that are key to good user testing.  The first thing I learned is that you have to let the user figure things out on their own.  This step only works if your design has good instructions and the user is able to work out what they need to do from those.  Part of your test of course could be about whether or not your instructions are clear enough or if your design conveys its message well.  It is also important to ask users for feedback on the design.  User feedback can be anything from a critique of your design to feedback on how it made them feel.  
