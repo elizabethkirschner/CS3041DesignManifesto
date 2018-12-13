@@ -20,7 +20,7 @@ My second step for any design is refine the ideas I put into my brainstorm.  In 
 
 ### Prototyping
 
-The prototyping stage is key for testing all the little mechanics of your design.  I really appreciated doing the paper prototypes in the design for others project and felt that it was a key step in our design process.  Prototyping is so important to the design process because it is the moment where your design takes shape.  From paper prototypes to full builds this stage is key.
+The prototyping stage is key for testing all the little mechanics of your design.  I really appreciated doing the paper prototypes in the design for others project and felt that it was a key step in our design process.  Prototyping is so important to the design process because it is the moment where your design takes shape.  From paper prototypes to full builds, this stage is key.
 
 Learning to use the tools for your design can be a big hindrance to this part of the design process.  In my design for wellbeing project, no members of my group, myself included, had any experience with javascript.  This made the project difficult and required a lot of trial and error as well as research to complete on time.  This of course was all part of the prototyping process and helped us understand what would and would not work for our final product.
 	
