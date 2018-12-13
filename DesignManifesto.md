@@ -3,8 +3,11 @@
 After the six design sprints in this class I have come up with a defined design process.  My process is, brainstorming, refining, prototyping, testing, and a final polish.  This class has afforded me several opportunities to practice and refine my design process.  In the future I believe that this class will have had a strong influence on how I go about my designs.  In this manifesto I will discuss why I have chosen these five steps as part of my design process.  
 
 ### Brainstorming
-My design process begins with a brainstorm.  Putting ideas down on paper is the best way to get started with the design process.  With each of the design sprints this term my group began our project with a paper and pencil brainstorm. 	
+
+My design process begins with a brainstorm.  Putting ideas down on paper is the best way to get started with the design process.  With each of the design sprints this term my group began our project with a paper and pencil brainstorm.
+
 ![image](https://github.com/elizabethkirschner/CS3041DesignManifesto/blob/master/Image%20from%20iOS.jpg) 
+
 This brainstorm promotes free thinking and helped each of my groups come up with what was eventually our final product.  I always like to write things down, for me, writing something down helps me think about it and makes me consider what it means.   Brainstorming gives you a chance to think through the entire project and work out what message you want to convey.  Before I begin brainstorming for any project I start by reading the prompt very carefully and discussing what it means with my partners or peers.  
 
 It is very important to have a goal in mind when you start brainstorming.  Without a goal for your project you have no direction for you to begin your brainstorm in.  For the final design sprint in the class, design for another world, we were given an open ended project with no goal set from the beginning.  Without a goal it is hard to know where to begin, my group decided our goal first, and then started brainstorming ideas for our design.  We decided to use humor to convey what it is like to live in messenger hall above the Foise Innovation Studio.  
@@ -21,6 +24,7 @@ Learning to use the tools for your design can be a big hindrance to this part of
 	
 ### Testing
 The testing phase requires a lot of time and patience.  In this class I learned several steps that are key to good user testing.  The first thing I learned is that you have to let the user figure things out on their own.  This step only works if your design has good instructions and the user is able to work out what they need to do from those.  Part of your test of course could be about whether or not your instructions are clear enough or if your design conveys its message well.  It is also important to ask users for feedback on the design.  User feedback can be anything from a critique of your design to feedback on how it made them feel.  
+
 User testing was key for the project design for wellbeing.  This project used affectiva to recognize the users emotions.  When we tested our design users were consistently confused and didn’t know what the goal of the design was.  We had missed this key element in our design and user testing highlighted the issue and helped us find a workable solution.  This problem taught me that each design should require minimal explanation to get started, or at least have easy to follow instructions.
 
 ### Final Polish
